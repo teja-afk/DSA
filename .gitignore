@@ -1,0 +1,19 @@
+*.exe
+output/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+*.py
